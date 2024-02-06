@@ -1,8 +1,8 @@
 # Lab2_AI
 After learning about Github and GitLLab, this lab is for the hands on experience for using both
 
-**In the attached code we see the following steps taken place in the Shivani_v1 model:
-**
+**In the following code attched to the repository, we do the below acions:**
+
 Loads the dataset from the file "wdbc.data".
 Preprocesses the data by separating features (X) and labels (y).
 Splits the dataset into training and testing sets using a 80-20 split.
